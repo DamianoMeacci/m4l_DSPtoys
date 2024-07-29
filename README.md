@@ -17,3 +17,6 @@ A pitch shifter, based on the classic gizmo~ object, designed for use in live co
 
 ## Resonant Filters
 A bank of resonant filters with various interesting functions.
+
+## Sound Mozzo
+It is an old device developed to spatialize sound through a series of movement paradigms. The device operates based on the classic panning algorithm for two-dimensional spatialization. The purpose of the device is to provide a practical and effective tool for managing spatialization in sound design work or live performances. The device is quite intuitive; however, a brief documentation will be added in the coming weeks.
