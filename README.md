@@ -1,5 +1,5 @@
 # m4l_DSPtoys
-"A small collection of Max for Live devices
+A small collection of Max for Live devices
 
 Some algorithms built in recent years mainly for live electronics performances. These algorithms are generally not particularly complex but are immediate and functional.
 
